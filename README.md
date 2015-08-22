@@ -1,6 +1,8 @@
 # GitHub-Card
 Display GitHub Information On A Web Page
 
+![demo.png](./static/img/demo.png)
+
 ## Install
 
 This plugin is dependent on [Jquery](https://jquery.com/), so you should require `jquery-2.0.0.min.js` and `GitHub-Card.js` at first. As written below:
